@@ -1,0 +1,4 @@
+{
+    "presets": ["vue-app"],
+    "plugins": ["transform-decorators-legacy", "transform-class-properties"]
+}

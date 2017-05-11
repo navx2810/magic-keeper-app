@@ -1,0 +1,24 @@
+{
+	"name": "magic-keeper-app",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/navx2810/magic-keeper-app.git",
+	"author": "Matt Fetterman <navx2810@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"superagent": "^3.5.2",
+		"vue-class-component": "*"
+	},
+	"devDependencies": {
+		"babel-plugin-transform-class-properties": "*",
+		"babel-plugin-transform-decorators-legacy": "*",
+		"poi": "*",
+		"pug": "^2.0.0-rc.1",
+		"pug-loader": "^2.3.0",
+		"stylus": "*",
+		"stylus-loader": "*"
+	},
+	"scripts": {
+		"dev": "poi"
+	}
+}
